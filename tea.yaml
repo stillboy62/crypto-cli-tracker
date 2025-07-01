@@ -1,0 +1,6 @@
+name: crypto-cli-tracker
+description: CLI tool to track real-time cryptocurrency prices using CoinGecko API.
+version: 1.0.0
+maintainers:
+  - github: najidsalman97
+license: MIT
